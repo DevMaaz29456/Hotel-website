@@ -1,12 +1,19 @@
-# React + Vite
+# 🌟 Hotel Booking Website (React Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive hotel booking platform built with **React.js** and **Tailwind CSS**, designed to provide a seamless user experience for both guests and hotel owners. This frontend application showcases room listings, user dashboards, and booking features with a modern UI and smooth navigation.
 
-Currently, two official plugins are available:
+## ✨ Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🏨 Explore a variety of room listings with images, amenities, and pricing
+- 📅 View and manage bookings (coming in full-stack version)
+- 👤 Dashboard for hotel owners to add, list, and manage rooms
+- 🔍 Intuitive filters and responsive design for all screen sizes
+- 🌙 Dark/light theme ready (optional)
+- 🚀 Fast performance with reusable React components
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js** – Component-based frontend library
+- **React Router** – For navigation and routing
+- **Tailwind CSS** – Utility-first styling framework
+- **React Icons** – For clean and scalable icons
